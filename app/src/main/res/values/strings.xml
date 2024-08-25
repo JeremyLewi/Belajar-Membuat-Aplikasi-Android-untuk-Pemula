@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">CarGarage</string>
+
+    <string name="cars_name">Nama Mobil</string>
+    <string name="description">Toyota Corolla adalah mobil keluarga yang telah terkenal dan menjadi pilihan utama keluarga di seluruh dunia selama beberapa dekade. Mobil ini dikenal dengan desainnya yang klasik dan elegan, serta handal dalam performa serta hemat bahan bakar. Selain itu, Toyota Corolla juga dilengkapi dengan berbagai fitur keselamatan yang membuat pengemudi dan penumpang merasa aman dan nyaman saat berkendara.</string>
+    <string name="profile">Profile</string>
+    <string name="name">Jeremy Lewi Munthe</string>
+    <string name="email">A243DSX2749@bangkit.academy</string>
+    <string name="overview">Overview</string>
+    <string name="manufacture">Manufacture</string>
+    <string name="production">Production</string>
+    <string name="share">share</string>
+    <string-array name="data_name">
+        <item>Toyota Corolla</item>
+        <item>Honda Civic</item>
+        <item>Ford Mustang</item>
+        <item>Chevrolet Camaro:</item>
+        <item>BMW 3 Series</item>
+        <item>Mercedes-Benz S-Class</item>
+        <item>Tesla Model S</item>
+        <item>Porsche 911</item>
+        <item>Lamborghini Aventador</item>
+        <item>Ferrari 488 GTB</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Toyota Corolla adalah mobil keluarga yang telah terkenal dan menjadi pilihan utama keluarga di seluruh dunia selama beberapa dekade. Mobil ini dikenal dengan desainnya yang klasik dan elegan, serta handal dalam performa serta hemat bahan bakar. Selain itu, Toyota Corolla juga dilengkapi dengan berbagai fitur keselamatan yang membuat pengemudi dan penumpang merasa aman dan nyaman saat berkendara.</item>
+        <item>Honda Civic adalah mobil sedan populer yang memiliki desain modern dan sporty. Mobil ini dilengkapi dengan teknologi canggih seperti sistem infotainment, kamera mundur, dan fitur-fitur keselamatan yang membuat pengemudi dan penumpang merasa nyaman dan aman saat berkendara. Performa tinggi dan efisiensi bahan bakar yang baik juga membuat Honda Civic menjadi salah satu mobil yang paling dicari di pasaran.</item>
+        <item>Ford Mustang adalah mobil sport legendaris yang telah menjadi ikon otomotif sejak pertama kali diluncurkan pada tahun 1960-an. Mobil ini terkenal dengan desainnya yang ikonik dan performa yang kuat. Ford Mustang hadir dengan berbagai pilihan mesin yang dapat disesuaikan dengan preferensi pengemudi. Selain itu, mobil ini juga dilengkapi dengan fitur-fitur canggih yang membuat berkendara menjadi lebih aman dan nyaman.
+</item>
+        <item>Chevrolet Camaro adalah mobil sport yang bersaing dengan Ford Mustang di pasar otomotif. Mobil ini memiliki desain yang sporty dan performa yang mumpuni. Chevrolet Camaro dilengkapi dengan berbagai fitur canggih seperti sistem infotainment, kamera mundur, dan fitur keselamatan yang membuat pengemudi dan penumpang merasa aman dan nyaman saat berkendara.</item>
+        <item>BMW 3-Series adalah mobil sedan mewah yang terkenal dengan desainnya yang elegan dan performa tinggi. Mobil ini dilengkapi dengan berbagai teknologi canggih seperti sistem infotainment, fitur keselamatan, dan kemampuan mengemudi mandiri yang membuat pengemudi dan penumpang merasa nyaman dan aman saat berkendara.</item>
+        <item>Mercedes-Benz S-Class adalah mobil sedan mewah yang terkenal dengan desainnya yang elegan dan mewah. Mobil ini dilengkapi dengan berbagai fitur canggih seperti sistem hiburan, fitur keselamatan, dan kemampuan mengemudi mandiri yang membuat pengemudi dan penumpang merasa nyaman dan aman saat berkendara. Performa tinggi dan kenyamanan berkendara yang luar biasa membuat Mercedes-Benz S-Class menjadi salah satu mobil mewah paling dicari di pasaran.</item>
+        <item>Tesla Model S adalah mobil listrik mewah yang terkenal dengan desainnya yang futuristik dan performa yang tinggi. Mobil ini dilengkapi dengan baterai yang dapat bertahan lama dan jangkauan baterai yang jauh, sehingga pengemudi dapat melakukan perjalanan jarak jauh tanpa perlu khawatir kehabisan baterai. Selain itu, Tesla Model S juga dilengkapi dengan berbagai fitur canggih seperti autopilot, sistem infotainment yang canggih, dan kemampuan untuk mengisi daya baterai dengan cepat. Kombinasi dari teknologi yang canggih, performa yang tinggi, dan bahan bakar yang ramah lingkungan menjadikan Tesla Model S sebagai salah satu mobil paling inovatif di pasaran saat ini.</item>
+        <item>Porsche 911 adalah mobil sport yang terkenal dengan desainnya yang ikonik dan performa yang tinggi. Mobil ini dilengkapi dengan mesin bertenaga yang dapat memberikan akselerasi yang sangat cepat. Selain itu, Porsche 911 juga memiliki kenyamanan dalam berkendara yang luar biasa, sehingga pengemudi dan penumpang dapat menikmati perjalanan dengan nyaman.</item>
+        <item>Lamborghini Aventador adalah mobil sport mewah yang terkenal dengan desainnya yang futuristik. Mobil ini dilengkapi dengan mesin yang sangat bertenaga dan kemampuan untuk mengejar kecepatan dengan mudah. Selain itu, Lamborghini Aventador juga dilengkapi dengan fitur-fitur canggih seperti sistem infotainment, kamera mundur, dan kemampuan untuk mengendalikan mobil melalui perangkat pintar.</item>
+        <item>Ferrari 488 GTB adalah mobil sport mewah dengan desain yang ikonik. Mobil ini dilengkapi dengan mesin yang bertenaga tinggi dan kemampuan untuk mengejar kecepatan dengan mudah. Selain itu, Ferrari 488 GTB juga dilengkapi dengan fitur-fitur canggih seperti sistem infotainment, sistem audio premium, dan kemampuan untuk mengendalikan mobil melalui perangkat pintar. Performa yang tinggi dan desain yang ikonik menjadikan Ferrari 488 GTB sebagai salah satu mobil sport paling dicari di pasaran saat ini.</item>
+    </string-array>
+    <string-array name="data_manufacture">
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Ford</item>
+        <item>Chevrolet</item>
+        <item>BMW</item>
+        <item>Mercedes-Benz</item>
+        <item>Tesla</item>
+        <item>Porsche</item>
+        <item>Lamborghini</item>
+        <item>Ferrari</item>
+    </string-array>
+
+    <string-array name="data_production">
+        <item>November 1966 – present</item>
+        <item>1972 – present</item>
+        <item>March 1964 – present</item>
+        <item>1966 – 2002\n2009 - present</item>
+        <item>1975 – present</item>
+        <item>1954 – present (S-Class nomenclature adopted since 1972)</item>
+        <item>2012 – present</item>
+        <item>September 1964 – present</item>
+        <item>February 2011 – September 2022</item>
+        <item>2015 – 2019</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2019_Toyota_Corolla_Design_VVT-i_HEV_1.8_Front.jpg/560px-2019_Toyota_Corolla_Design_VVT-i_HEV_1.8_Front.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2017_Honda_Civic_SR_VTEC_1.0_Front.jpg/560px-2017_Honda_Civic_SR_VTEC_1.0_Front.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2018_Ford_Mustang_GT_5.0.jpg/560px-2018_Ford_Mustang_GT_5.0.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg/560px-2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BMW_G20_IMG_0167.jpg/560px-BMW_G20_IMG_0167.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_W223_IMG_6663.jpg/560px-Mercedes-Benz_W223_IMG_6663.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2018_Tesla_Model_S_75D.jpg/560px-2018_Tesla_Model_S_75D.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg/560px-Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lamborghini_Aventador_LP700-4_Orange.jpg/560px-Lamborghini_Aventador_LP700-4_Orange.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2017_Ferrari_488_GTB_Automatic_3.9.jpg/560px-2017_Ferrari_488_GTB_Automatic_3.9.jpg</item>
+    </string-array>
+</resources>
